@@ -1,0 +1,1 @@
+// products route placeholder
